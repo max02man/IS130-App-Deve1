@@ -1,0 +1,11 @@
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky_Burgers_Project.MainForm.resources
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky_Burgers_Project.Resources.resources
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.exe
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.pdb
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\bin\Debug\Bucky Burgers Project.xml
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.exe
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.xml
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Bucky Burgers Solution\Bucky Burgers Project\obj\x86\Debug\Bucky Burgers Project.pdb

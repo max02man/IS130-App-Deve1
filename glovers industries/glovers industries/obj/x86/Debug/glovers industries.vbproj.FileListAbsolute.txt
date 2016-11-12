@@ -1,0 +1,21 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers_industries.Form1.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers_industries.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\bin\Debug\glovers industries.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.vbprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers_industries.Form1.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers_industries.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\glovers industries\glovers industries\obj\x86\Debug\glovers industries.vbproj.GenerateResource.Cache

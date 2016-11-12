@@ -1,0 +1,11 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\bin\Debug\Kenton Incorporated.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\bin\Debug\Kenton Incorporated.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\bin\Debug\Kenton Incorporated.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\Kenton_Incorporated.mainForm.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\Kenton_Incorporated.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\Kenton Incorporated.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\Kenton Incorporated.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap06\Kenton Incorporated\Kenton Incorporated\obj\x86\Debug\Kenton Incorporated.pdb

@@ -1,0 +1,21 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton_water_Department.mainForm.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton_water_Department.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\bin\Debug\Allenton water Department.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.vbprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton_water_Department.mainForm.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton_water_Department.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Allenton water Department\Allenton water Department\Allenton water Department\obj\x86\Debug\Allenton water Department.vbproj.GenerateResource.Cache

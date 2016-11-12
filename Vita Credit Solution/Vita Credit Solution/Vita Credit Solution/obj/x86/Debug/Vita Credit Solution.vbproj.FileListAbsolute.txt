@@ -1,0 +1,25 @@
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.exe
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.pdb
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.xml
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita_Credit_Solution.Form1.resources
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita_Credit_Solution.Resources.resources
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.exe
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.xml
+C:\Users\Aysegul\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.pdb
+C:\Users\Max Man\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.exe
+C:\Users\Max Man\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.xml
+C:\Users\Max Man\Desktop\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita Credit Solution.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\bin\Debug\Vita Credit Solution.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita_Credit_Solution.Form1.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\Vita_Credit_Solution.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Vita Credit Solution\Vita Credit Solution\obj\x86\Debug\GenerateResource.write.1.tlog

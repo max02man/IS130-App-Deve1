@@ -1,0 +1,21 @@
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.exe
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.pdb
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.xml
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat_Calculator.mainForm.resources
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat_Calculator.Resources.resources
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.exe
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.xml
+c:\users\max man\documents\visual studio 2010\Projects\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\bin\Debug\Fat Calculator.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat_Calculator.mainForm.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat_Calculator.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Fat Calculator\Fat Calculator\obj\x86\Debug\Fat Calculator.vbproj.GenerateResource.Cache

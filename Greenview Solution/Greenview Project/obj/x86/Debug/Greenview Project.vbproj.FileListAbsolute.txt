@@ -1,0 +1,14 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview_Project.MainForm.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview_Project.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\bin\Debug\Greenview Project.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap04\Greenview Solution\Greenview Project\obj\x86\Debug\Greenview Project.pdb

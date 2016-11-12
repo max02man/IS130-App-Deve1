@@ -1,0 +1,23 @@
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\bin\Debug\example2.exe
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\bin\Debug\example2.pdb
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\bin\Debug\example2.xml
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\example2.mainForm.resources
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\example2.Resources.resources
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\example2.exe
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\example2.xml
+c:\users\max man\documents\visual studio 2010\Projects\example2\example2\obj\x86\Debug\example2.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\bin\Debug\example2.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\bin\Debug\example2.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\bin\Debug\example2.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.vbprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.mainForm.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap02\example2\example2\obj\x86\Debug\example2.vbproj.GenerateResource.Cache

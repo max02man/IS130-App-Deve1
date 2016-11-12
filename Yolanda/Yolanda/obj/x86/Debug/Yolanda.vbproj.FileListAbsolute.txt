@@ -1,0 +1,14 @@
+E:\New folder (2)\Yolanda\Yolanda\bin\Debug\Yolanda.exe
+E:\New folder (2)\Yolanda\Yolanda\bin\Debug\Yolanda.pdb
+E:\New folder (2)\Yolanda\Yolanda\bin\Debug\Yolanda.xml
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\Yolanda.Form1.resources
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\Yolanda.Resources.resources
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\Yolanda.exe
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\Yolanda.xml
+E:\New folder (2)\Yolanda\Yolanda\obj\x86\Debug\Yolanda.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\chap10\Yolanda\Yolanda\obj\x86\Debug\Yolanda.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\chap10\Yolanda\Yolanda\obj\x86\Debug\Yolanda.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\chap10\Yolanda\Yolanda\obj\x86\Debug\Yolanda.pdb

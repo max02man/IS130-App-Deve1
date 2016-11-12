@@ -1,0 +1,11 @@
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\bin\Debug\Guess the Word Project.exe
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\bin\Debug\Guess the Word Project.pdb
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\bin\Debug\Guess the Word Project.xml
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\Guess_the_Word_Project.MainForm.resources
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\Guess_the_Word_Project.Resources.resources
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\Guess the Word Project.exe
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\Guess the Word Project.xml
+C:\Users\ahawsawi1s\Desktop\VbReloaded2010\Chap10\Guess the Word Solution\Guess the Word Project\obj\x86\Debug\Guess the Word Project.pdb

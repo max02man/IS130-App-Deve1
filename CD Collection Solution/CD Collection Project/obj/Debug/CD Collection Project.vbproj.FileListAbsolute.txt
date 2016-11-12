@@ -1,0 +1,9 @@
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD_Collection_Project.MainForm.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD_Collection_Project.Resources.resources
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.vbproj.GenerateResource.Cache
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.pdb
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\bin\Debug\CD Collection Project.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.exe
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.xml
+C:\Users\MAX MAN\Desktop\semo\IS130\IS130\Chap11\CD Collection Solution\CD Collection Project\obj\Debug\CD Collection Project.pdb

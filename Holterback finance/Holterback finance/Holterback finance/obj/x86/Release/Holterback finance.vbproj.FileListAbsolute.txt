@@ -1,0 +1,25 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Release\Holterback finance.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Release\Holterback finance.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Release\Holterback finance.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\Holterback_finance.Form1.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\Holterback_finance.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.pdb
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.exe
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.xml
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.pdb
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\bin\Release\Holterback finance.exe
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\bin\Release\Holterback finance.pdb
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\bin\Release\Holterback finance.xml
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\Holterback_finance.Form1.resources
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\Holterback_finance.Resources.resources
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ahawsawi1s\Desktop\Holterback finance\Holterback finance\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.exe
+E:\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.xml
+E:\Holterback finance\Holterback finance\obj\x86\Release\Holterback finance.pdb

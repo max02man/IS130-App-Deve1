@@ -1,0 +1,11 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\Conway_Enterprises.mainForm.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\Conway_Enterprises.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\bin\Debug\Conway Enterprises.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\bin\Debug\Conway Enterprises.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\bin\Debug\Conway Enterprises.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\Conway Enterprises.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\Conway Enterprises.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap09\Conway Enterprises\Conway Enterprises\obj\x86\Debug\Conway Enterprises.pdb

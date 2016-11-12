@@ -1,0 +1,11 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\bin\Debug\Political Awareness Organization.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\bin\Debug\Political Awareness Organization.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\bin\Debug\Political Awareness Organization.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\Political_Awareness_Organization.MainForm.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\Political_Awareness_Organization.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\Political Awareness Organization.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\Political Awareness Organization.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap11\Political Awareness Organization\Political Awareness Organization\obj\x86\Debug\Political Awareness Organization.pdb

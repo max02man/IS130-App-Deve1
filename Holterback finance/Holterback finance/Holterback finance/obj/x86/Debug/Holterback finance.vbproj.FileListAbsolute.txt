@@ -1,0 +1,11 @@
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\Holterback_finance.Form1.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\Holterback_finance.Resources.resources
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Debug\Holterback finance.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Debug\Holterback finance.pdb
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\bin\Debug\Holterback finance.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\Holterback finance.exe
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\Holterback finance.xml
+C:\Users\Max Man\Documents\Visual Studio 2010\VbReloaded2010\Chap10\Holterback finance\Holterback finance\obj\x86\Debug\Holterback finance.pdb
